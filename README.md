@@ -77,4 +77,4 @@ Some of the languages and tools I know:
 
 #### 📈  My GitHub Stats:
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsinocity&count_private=true)](https://github.com/tahsinocity/github-readme-stats)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=tahsinocity&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
